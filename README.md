@@ -1,10 +1,12 @@
-# Supply-chain-visibility-and-optimization-project
-## Infosys Springboard Internship 7.0 – supply chain visibility and optimization
+# Supply Chain Visibility and Optimization
+
+## Infosys Springboard Internship 7.0 –data visualization 
+
 This repository contains the work completed as part of the **Infosys Springboard Internship 7.0**.
 
-The project focuses on **Supply Chain Visibility and Optimization** through data preprocessing, data analysis, visualization, KPI development, and dashboard creation using Python, Pandas, and Microsoft Power BI.
+The project focuses on **Supply Chain Visibility and Optimization** using data preprocessing, data analysis, KPI development, data visualization, and interactive dashboard development.
 
-The project follows a complete data analytics workflow, starting from raw data preprocessing and analysis and progressing toward interactive dashboards and business insights.
+The project was completed through multiple milestones, with each milestone focusing on a specific stage of the data analytics and business intelligence workflow. The final group deliverables consolidate selected dashboards and reports developed throughout the project.
 
 ---
 
@@ -12,15 +14,17 @@ The project follows a complete data analytics workflow, starting from raw data p
 
 The main objectives of this project are:
 
-- To understand and analyze supply chain-related data.
-- To clean and preprocess the dataset.
-- To identify important data patterns and trends.
-- To perform exploratory data analysis.
-- To develop meaningful KPIs for supply chain analysis.
-- To create effective data visualizations.
-- To develop interactive Power BI dashboards.
-- To provide useful insights for supply chain visibility and optimization.
-- To present the project findings through dashboards and reports.
+- To understand and analyze supply chain data.
+- To preprocess and clean the available datasets.
+- To perform data analysis and identify useful patterns.
+- To develop meaningful Key Performance Indicators (KPIs).
+- To analyze supplier and carrier performance.
+- To analyze transportation costs and routes.
+- To evaluate warehouse efficiency.
+- To create meaningful visualizations and reports.
+- To develop interactive dashboards using Microsoft Power BI.
+- To provide insights that support supply chain visibility and optimization.
+- To present the findings through dashboards, reports, and presentations.
 
 ---
 
@@ -33,204 +37,272 @@ The main objectives of this project are:
 | **Jupyter Notebook** | Data preprocessing and analysis |
 | **Microsoft Excel** | Dataset handling |
 | **Microsoft Power BI** | Dashboard development and visualization |
+| **Microsoft PowerPoint** | Project presentations |
 | **GitHub** | Project documentation and version control |
 
 ---
 
 ## Project Workflow
 
-The project follows the following data analytics workflow:
+The project follows a complete data analytics and business intelligence workflow:
 
-**Data Collection → Data Preprocessing → Data Cleaning → Data Analysis → KPI Development → Data Visualization → Power BI Dashboard → Insights**
-
----
-
-# Dataset
-
-The project uses a cleaned skincare dataset for the analysis.
-
-### Dataset File
-
-`cleaned_skincare_dataset.xlsx`
-
-The dataset was prepared and cleaned before performing further analysis and visualization.
-
-The dataset was used for:
-
-- Data preprocessing
-- Exploratory analysis
-- KPI development
-- Visualization
-- Dashboard creation
+**Data Collection → Data Preprocessing → Data Analysis → KPI Development → Visualization → Dashboard Development → Supply Chain Insights → Optimization**
 
 ---
 
-# Data Preprocessing
+# Project Milestones
 
-The data preprocessing work was performed using **Python and Pandas**.
+## Milestone 1 – Data Preprocessing
 
-### Notebook
+Milestone 1 focused on **data preprocessing and preparation**.
+
+### File
 
 `preprocessing.ipynb`
 
-The notebook contains the preprocessing steps performed on the dataset.
+The Python/Jupyter Notebook contains the preprocessing work performed on the dataset.
 
-The major preprocessing activities include:
+The preprocessing activities included:
 
 - Loading the dataset
-- Understanding the dataset structure
-- Checking data types
-- Identifying missing values
-- Checking duplicate records
-- Cleaning the dataset
-- Handling data quality issues
-- Preparing data for analysis
-- Preparing data for visualization
+- Understanding the dataset
+- Examining the data structure
+- Checking data quality
+- Data cleaning
+- Data preprocessing
+- Preparing the data for further analysis
+- Preparing the dataset for dashboard development
+
+This milestone established the foundation for the analysis and visualization activities performed in the following milestones.
 
 ---
 
-# Data Analysis
+# Milestone 2 – Dashboard Development
 
-After preprocessing, the cleaned dataset was analyzed to identify useful patterns and trends.
+Milestone 2 focused on the creation of **two dashboards** based on the analyzed data.
 
-The analysis focused on understanding important characteristics of the data and identifying information that could support supply chain visibility and optimization.
+### Files
 
-The analysis helped in:
+- `milestone_2_ppt.pptx`
+- `milestone_2 report.docx`
 
-- Understanding key metrics
-- Identifying trends and patterns
-- Comparing different categories
-- Identifying important performance indicators
-- Preparing insights for dashboard development
+The milestone involved transforming the prepared data into meaningful visualizations and dashboards.
 
----
-
-# KPI Dashboard
-
-Key Performance Indicators (KPIs) were developed to provide a quick overview of important business information.
-
-The project includes advanced KPI dashboards developed during the milestone activities.
-
-### Dashboard 1
-
-`advanced kpi dashboard1(m3).png`
-
-### Dashboard 2
-
-`advanced kpi dashboard2(m3).png`
-
-These dashboards provide visual representations of important KPIs and help users understand the analyzed data more effectively.
+The dashboards were designed to provide an easy-to-understand visual representation of important information and support the analysis of supply chain-related metrics.
 
 ---
 
-# Dashboard Preview
+# Milestone 3 – Supplier, Transportation, Route and Carrier Analysis
 
-## Advanced KPI Dashboard 1
+Milestone 3 focused on deeper supply chain analysis through **supplier scorecards, transportation cost, route performance, carrier performance, and advanced KPI visualizations**.
+
+### Files
+
+- `milestone3 ppt.pptx`
+- `milestone 3 report.docx`
+- `advanced kpi dashboard1(m3).png`
+- `advanced kpi dashboard2(m3).png`
+
+### Key Areas Covered
+
+#### Supplier Scorecards
+
+Supplier scorecards were used to evaluate and compare supplier-related performance indicators.
+
+#### Transportation Cost
+
+Transportation cost analysis was performed to understand transportation-related expenses and identify useful cost-related insights.
+
+#### Route Performance
+
+Route-related analysis was performed to understand route performance and identify potential areas for improvement.
+
+#### Carrier Performance
+
+Carrier performance was analyzed to compare and understand the performance of different transportation carriers.
+
+#### Advanced KPI Visualizations
+
+Advanced KPI visualizations were created to provide a clearer and more detailed view of important supply chain metrics.
+
+### Advanced KPI Dashboard 1
 
 ![Advanced KPI Dashboard 1](advanced%20kpi%20dashboard1%28m3%29.png)
 
-## Advanced KPI Dashboard 2
+### Advanced KPI Dashboard 2
 
 ![Advanced KPI Dashboard 2](advanced%20kpi%20dashboard2%28m3%29.png)
 
 ---
 
-# Executive Overview
+# Milestone 4 – Warehouse Efficiency, Optimization and Executive Overview
 
-An executive overview was developed to provide a high-level representation of the project findings.
+Milestone 4 focused on **warehouse efficiency, executive-level reporting, optimization, and supply chain overview**.
 
-### Executive Overview Image
+### Files
 
-`executive overview(m4).jpeg`
+- `milestone4 ppt.pptx`
+- `milestone4 report.docx`
+- `executive overview(m4).jpeg`
+- `scorecards(m3),optimization(m4).pdf`
+- `route(m3),executive overview(m4).pdf`
+
+### Key Areas Covered
+
+#### Warehouse Efficiency Reports
+
+Warehouse efficiency was analyzed through reports and visualizations to provide insights into warehouse-related performance.
+
+#### Executive Overview Dashboard
+
+An executive overview dashboard was developed to provide a summarized view of important supply chain information and insights.
 
 ![Executive Overview](executive%20overview%28m4%29.jpeg)
 
-The executive overview presents important information in a concise and easy-to-understand format for decision-making.
+#### Optimization Dashboard
+
+An optimization dashboard was developed to identify and present information related to supply chain optimization opportunities.
+
+#### Supply Chain Overview
+
+A supply chain overview was created to provide a broader view of important supply chain metrics and performance.
 
 ---
 
-# Route Analysis and Executive Overview
+# Group Dashboards
 
-The repository also contains the project material related to route analysis and executive overview.
+The repository contains the consolidated **Group Dashboards 1–4**.
 
-### File
-
-`route(m3),executive overview(m4).pptx`
-
-This file contains the presentation material associated with the milestone activities, including route analysis and executive-level insights.
-
----
-
-# Power BI Dashboard
-
-The project includes a consolidated Power BI dashboard file:
+### Group Power BI Dashboard
 
 `group_data_dashboard(1-4).pbix`
 
-The Power BI dashboard contains the visualizations and analysis developed throughout the project milestones.
+This Power BI file contains the consolidated group dashboard work.
 
-The dashboard is designed to provide:
+The group dashboards include:
 
-- Interactive data exploration
-- KPI monitoring
-- Visual analysis
-- Comparison of important metrics
-- Easy interpretation of business information
-- Support for data-driven decision-making
+- **Milestone 2 dashboard topics**
+- **Transportation Cost Estimation dashboards**
+- **Warehouse Efficiency Reports**
 
----
+The consolidated Power BI dashboard brings together these areas into a single group deliverable for supply chain analysis and visualization.
 
-# Project Report
-
-The consolidated project report is available as:
+### Group Dashboard Report
 
 `group_data_dashboard(1-4).pdf`
 
-The report contains the consolidated dashboard and analysis work completed during the project.
+This PDF contains the consolidated representation of the **Group Dashboards 1–4**.
+
+---
+
+# Individual Dashboards
+
+`individual dashboards.pdf`
+
+This file contains the individual dashboard outputs developed as part of the project.
+
+The individual dashboards provide visual representations of different supply chain analysis areas.
+
+---
+
+# Major Areas of Analysis
+
+The project covers multiple areas of supply chain visibility and optimization.
+
+## 1. Data Preprocessing
+
+Data was cleaned and prepared using Python and Pandas to make it suitable for further analysis.
+
+## 2. Dashboard Analysis
+
+Two dashboards were developed during Milestone 2 to visualize important information from the prepared data.
+
+## 3. Supplier Scorecards
+
+Supplier scorecards were developed to evaluate supplier-related performance.
+
+## 4. Transportation Cost Analysis
+
+Transportation costs were analyzed to understand cost-related patterns and support transportation decision-making.
+
+## 5. Route Performance
+
+Routes were analyzed to understand their performance and identify potential improvement areas.
+
+## 6. Carrier Performance
+
+Carrier performance was analyzed to compare transportation providers and understand their performance.
+
+## 7. Advanced KPI Visualization
+
+Advanced KPI visualizations were developed to provide a detailed view of important supply chain metrics.
+
+## 8. Warehouse Efficiency
+
+Warehouse efficiency reports were developed to analyze warehouse-related performance.
+
+## 9. Executive Overview
+
+An executive overview dashboard was created to provide a summarized view of important supply chain information.
+
+## 10. Optimization
+
+Optimization dashboards and analysis were developed to identify opportunities for improving supply chain performance and efficiency.
+
+## 11. Supply Chain Overview
+
+A supply chain overview was developed to provide a broader perspective of the analyzed supply chain information.
 
 ---
 
 # Key Work Performed
 
-## 1. Data Collection
+### Data Preprocessing
 
-The required dataset was obtained and prepared for analysis.
+- Loaded and examined the dataset.
+- Identified data quality issues.
+- Cleaned and prepared the data.
+- Performed preprocessing using Python and Pandas.
 
-## 2. Data Cleaning
+### Data Analysis
 
-The dataset was examined for data quality issues and cleaned before analysis.
+- Explored the prepared dataset.
+- Identified useful patterns and trends.
+- Analyzed supply chain-related performance indicators.
 
-The cleaning process included:
+### KPI Development
 
-- Identifying missing values
-- Checking duplicate records
-- Validating data types
-- Handling inconsistent data
-- Preparing structured data for analysis
+- Developed KPIs for supply chain analysis.
+- Created advanced KPI visualizations.
+- Presented KPIs through dashboards.
 
-## 3. Data Preprocessing
+### Supplier Analysis
 
-Python and Pandas were used to preprocess the dataset and make it suitable for analysis and visualization.
+- Developed supplier scorecards.
+- Analyzed supplier performance.
 
-## 4. Exploratory Data Analysis
+### Transportation Analysis
 
-Exploratory analysis was performed to understand the dataset and identify meaningful patterns and trends.
+- Analyzed transportation costs.
+- Developed transportation cost visualizations and dashboards.
 
-## 5. KPI Development
+### Route and Carrier Analysis
 
-Important KPIs were identified and represented visually to provide a quick understanding of the dataset.
+- Analyzed route performance.
+- Analyzed carrier performance.
+- Compared transportation-related performance indicators.
 
-## 6. Data Visualization
+### Warehouse Analysis
 
-Different visualizations were created to communicate important information effectively.
+- Developed warehouse efficiency reports.
+- Analyzed warehouse-related performance.
 
-## 7. Dashboard Development
+### Dashboard Development
 
-Microsoft Power BI was used to create interactive dashboards and present the analysis in a user-friendly format.
-
-## 8. Executive Overview
-
-An executive-level overview was developed to summarize important findings and support decision-making.
+- Created multiple dashboards using Microsoft Power BI.
+- Developed executive-level visualizations.
+- Created optimization dashboards.
+- Consolidated selected dashboards into group deliverables.
 
 ---
 
@@ -238,68 +310,112 @@ An executive-level overview was developed to summarize important findings and su
 
 | File | Description |
 |---|---|
-| `cleaned_skincare_dataset.xlsx` | Cleaned dataset used for analysis |
-| `preprocessing.ipynb` | Python notebook containing data preprocessing work |
-| `advanced kpi dashboard1(m3).png` | Advanced KPI dashboard – 1 |
-| `advanced kpi dashboard2(m3).png` | Advanced KPI dashboard – 2 |
-| `executive overview(m4).jpeg` | Executive overview dashboard/image |
-| `route(m3),executive overview(m4).pptx` | Route analysis and executive overview presentation |
-| `group_data_dashboard(1-4).pbix` | Consolidated Power BI dashboard |
-| `group_data_dashboard(1-4).pdf` | Consolidated dashboard report |
 | `LICENSE` | Repository license |
+| `preprocessing.ipynb` | Python notebook for data preprocessing |
+| `cleaned_skincare_dataset.xlsx` | Cleaned dataset |
+| `supply_chain_raw_dataset.xlsx` | Raw supply chain dataset |
+| `milestone1 ppt.pptx` | Milestone 1 presentation |
+| `milestone1 report.docx` | Milestone 1 report |
+| `milestone_2_ppt.pptx` | Milestone 2 presentation |
+| `milestone_2 report.docx` | Milestone 2 report |
+| `milestone3 ppt.pptx` | Milestone 3 presentation |
+| `milestone 3 report.docx` | Milestone 3 report |
+| `advanced kpi dashboard1(m3).png` | Advanced KPI dashboard 1 |
+| `advanced kpi dashboard2(m3).png` | Advanced KPI dashboard 2 |
+| `milestone4 ppt.pptx` | Milestone 4 presentation |
+| `milestone4 report.docx` | Milestone 4 report |
+| `executive overview(m4).jpeg` | Executive overview dashboard |
+| `route(m3),executive overview(m4).pdf` | Route analysis and executive overview |
+| `scorecards(m3),optimization(m4).pdf` | Supplier scorecards and optimization analysis |
+| `individual dashboards.pdf` | Individual dashboard collection |
+| `group_data_dashboard(1-4).pbix` | **It contains milestone 2 overall dashboards,transportation cost analysis,warehouse efficiency reports power bi file |
+| `group_data_dashboard(1-4).pdf` | **It contains milestone 2 overall dashboards,transportation cost analysis,warehouse efficiency reports power bi file pdf ** |
 
 ---
 
 # Skills Developed
 
-This project helped develop practical skills in:
+Through this project, practical skills were developed in:
 
-- **Data Cleaning**
-- **Data Preprocessing**
-- **Exploratory Data Analysis**
-- **Python**
-- **Pandas**
-- **Microsoft Excel**
-- **Microsoft Power BI**
-- **KPI Development**
-- **Data Visualization**
-- **Dashboard Development**
-- **Business Intelligence**
-- **Data Interpretation**
-- **Project Documentation**
+- Python
+- Pandas
+- Data Preprocessing
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- KPI Development
+- Supplier Performance Analysis
+- Supplier Scorecards
+- Transportation Cost Analysis
+- Route Performance Analysis
+- Carrier Performance Analysis
+- Warehouse Efficiency Analysis
+- Supply Chain Analysis
+- Supply Chain Optimization
+- Microsoft Power BI
+- Dashboard Development
+- Business Intelligence
+- Data Interpretation
+- Project Documentation
 
 ---
 
 # Project Outcome
 
-The project provided practical experience in the complete data analytics workflow, from **data preprocessing and analysis to KPI development, visualization, and Power BI dashboard creation**.
+The project provided practical experience in the complete data analytics and business intelligence workflow.
 
-The project demonstrates how data can be transformed into meaningful visual insights that support **supply chain visibility, performance monitoring, and optimization**.
+The project started with **data preprocessing** in Milestone 1 and progressed to dashboard development, supplier and transportation analysis, KPI visualization, warehouse efficiency analysis, executive reporting, and optimization.
 
-Through this project, practical knowledge was gained in **Python, Pandas, data preprocessing, data visualization, Power BI, KPI analysis, and dashboard development**.
+The project demonstrates how data analysis and visualization can be used to improve **supply chain visibility, performance monitoring, and optimization**.
 
 ---
 
 # Internship
 
-**Infosys Springboard Internship 7.0**
+## Infosys Springboard Internship 7.0
 
 ### Project Title
 
 **Supply Chain Visibility and Optimization**
 
-This repository serves as a record of the project work completed during the Infosys Springboard Internship 7.0, including the dataset, preprocessing notebook, KPI dashboards, executive overview, Power BI dashboard, presentation, and consolidated report.
+This repository serves as a record of the project work completed during the **Infosys Springboard Internship 7.0**, including datasets, preprocessing work, milestone presentations, reports, KPI dashboards, supplier scorecards, transportation analysis, route and carrier performance analysis, warehouse efficiency reports, executive overview, optimization dashboards, and consolidated group dashboards.
 
 ---
 
-## Conclusion
+# Project Highlights
 
-The **Supply Chain Visibility and Optimization** project demonstrates the practical application of data analytics and business intelligence techniques to transform data into meaningful insights.
+📊 **Supply Chain Data Analysis**
 
-The project covers the complete journey from **data preprocessing → analysis → KPI development → visualization → Power BI dashboard → business insights**, providing practical experience in real-world data analytics.
+🐍 **Python & Pandas**
+
+🧹 **Data Preprocessing & Cleaning**
+
+📈 **Advanced KPI Visualizations**
+
+🏭 **Warehouse Efficiency Analysis**
+
+🚚 **Transportation Cost Analysis**
+
+🗺️ **Route Performance Analysis**
+
+🚛 **Carrier Performance Analysis**
+
+📋 **Supplier Scorecards**
+
+📊 **Power BI Dashboards**
+
+🎯 **Optimization Analysis**
+
+📑 **Executive Overview**
+
+💡 **Data-Driven Insights**
 
 ---
 
-### Infosys Springboard Internship 7.0
+# Conclusion
 
+The **Supply Chain Visibility and Optimization** project demonstrates the practical application of data analytics and business intelligence techniques to supply chain data.
 
+The project covers the complete journey from **data preprocessing and analysis to KPI development, supplier scorecards, transportation cost analysis, route and carrier performance, warehouse efficiency, executive reporting, optimization, and dashboard development**.
+
+Overall, the project provided practical experience in using **Python, Pandas, Excel, and Microsoft Power BI** to transform data into meaningful visual insights for supply chain visibility and optimization.
